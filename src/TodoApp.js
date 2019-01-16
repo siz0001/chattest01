@@ -1,3 +1,5 @@
+// 엔트리 컴포넌트의 역할을 함.
+
 import React from "react";
 import AddTodo from "./components/AddTodo";
 import TodoList from "./components/TodoList";

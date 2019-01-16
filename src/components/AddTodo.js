@@ -1,3 +1,5 @@
+//유저가 할일(todo)을 입력하게 하고 버튼을 누르면 리스트에 이를 추가하게 해주는 콤포넌트
+
 import React from "react";
 import { connect } from "react-redux";
 import { addTodo } from "../redux/actions";
